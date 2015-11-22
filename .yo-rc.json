@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipsterdemo",
+    "packageName": "com.sunnyxiaobai",
+    "packageFolder": "com/sunnyxiaobai",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "d9bb94cde3500e3dccf80ca059c06bf6fa333d98"
+  }
+}
